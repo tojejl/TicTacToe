@@ -4,7 +4,7 @@ using System.Text;
 
 namespace TicTacToe.ConsoleApp.Models
 {
-    class Class1
+    class GameBoard
     {
     }
 }

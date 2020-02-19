@@ -1,10 +1,6 @@
-﻿using System;
-using System.Collections.Generic;
-using System.Text;
-
-namespace TicTacToe.ConsoleApp.Models
+﻿namespace TicTacToe.ConsoleApp.Models
 {
-    class Class1
+    public class Grid
     {
     }
 }
