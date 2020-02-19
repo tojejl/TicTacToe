@@ -1,0 +1,11 @@
+C:\Users\16189\source\repos\TicTacToe.ConsoleApp\TicTacToe.ConsoleApp\bin\Debug\netcoreapp3.1\TicTacToe.ConsoleApp.exe
+C:\Users\16189\source\repos\TicTacToe.ConsoleApp\TicTacToe.ConsoleApp\bin\Debug\netcoreapp3.1\TicTacToe.ConsoleApp.deps.json
+C:\Users\16189\source\repos\TicTacToe.ConsoleApp\TicTacToe.ConsoleApp\bin\Debug\netcoreapp3.1\TicTacToe.ConsoleApp.runtimeconfig.json
+C:\Users\16189\source\repos\TicTacToe.ConsoleApp\TicTacToe.ConsoleApp\bin\Debug\netcoreapp3.1\TicTacToe.ConsoleApp.runtimeconfig.dev.json
+C:\Users\16189\source\repos\TicTacToe.ConsoleApp\TicTacToe.ConsoleApp\bin\Debug\netcoreapp3.1\TicTacToe.ConsoleApp.dll
+C:\Users\16189\source\repos\TicTacToe.ConsoleApp\TicTacToe.ConsoleApp\bin\Debug\netcoreapp3.1\TicTacToe.ConsoleApp.pdb
+C:\Users\16189\source\repos\TicTacToe.ConsoleApp\TicTacToe.ConsoleApp\obj\Debug\netcoreapp3.1\TicTacToe.ConsoleApp.csprojAssemblyReference.cache
+C:\Users\16189\source\repos\TicTacToe.ConsoleApp\TicTacToe.ConsoleApp\obj\Debug\netcoreapp3.1\TicTacToe.ConsoleApp.AssemblyInfoInputs.cache
+C:\Users\16189\source\repos\TicTacToe.ConsoleApp\TicTacToe.ConsoleApp\obj\Debug\netcoreapp3.1\TicTacToe.ConsoleApp.AssemblyInfo.cs
+C:\Users\16189\source\repos\TicTacToe.ConsoleApp\TicTacToe.ConsoleApp\obj\Debug\netcoreapp3.1\TicTacToe.ConsoleApp.dll
+C:\Users\16189\source\repos\TicTacToe.ConsoleApp\TicTacToe.ConsoleApp\obj\Debug\netcoreapp3.1\TicTacToe.ConsoleApp.pdb
